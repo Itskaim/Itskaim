@@ -6,7 +6,7 @@
 
 - 👯 I’m looking to collaborate on **no one**
 
-- ⚡ Fun fact **I'm not funny**
+- ⚡ Fun fact **I'm fitness freak**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
