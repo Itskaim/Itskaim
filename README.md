@@ -15,9 +15,9 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
- <p align="left"> <a href="https://www.w3schools.com/c/c_intro.php" target="blank"> <img align="center" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" height="30" width="40" /> </p> 
- <p align="left"> <a href="https://www.w3schools.com/html/" target="blank"> <img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCE306XeWxLV9IBKXrAejOCNevi_BGpMb3EKtaSw_88h0DayKEoGeBs0JO4i08mwQuNNE&usqp=CAU" height="30" width="40" /> </p> 
- <img align="right" alt="Thankyou for visiting" src="https://media.tenor.com/AFiRjPJ3uwMAAAAj/emoji-smiley.gif" width="100" height="100">
+ <p align="left"> <a href="https://www.w3schools.com/c/c_intro.php" target="blank"> <img align="center" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" height="40" width="40" />  </a>
+  <a href="https://www.w3schools.com/html/" target="blank">  <img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCE306XeWxLV9IBKXrAejOCNevi_BGpMb3EKtaSw_88h0DayKEoGeBs0JO4i08mwQuNNE&usqp=CAU" height="40" width="40" /> </p> 
+
  
  
  
