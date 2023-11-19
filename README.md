@@ -15,4 +15,5 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" targe
+ <p align="left"> <a href="https://www.cprogramming.com/" target="blank"> <img align="center" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" height="30" width="40" /> </p> 
+ 
